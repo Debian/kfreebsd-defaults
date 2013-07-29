@@ -1,3 +1,9 @@
+kfreebsd-defaults (9+2) UNRELEASED; urgency=low
+
+  * Switch to canonical Vcs URLs.
+
+ -- Guillem Jover <guillem@debian.org>  Mon, 29 Jul 2013 14:18:16 +0200
+
 kfreebsd-defaults (9+1) unstable; urgency=high
 
   * Add Vcs-* fields.
