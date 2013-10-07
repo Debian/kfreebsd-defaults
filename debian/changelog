@@ -1,8 +1,12 @@
-kfreebsd-defaults (9+2) UNRELEASED; urgency=low
+kfreebsd-defaults (9+2) unstable; urgency=low
 
+  [ Guillem Jover ]
   * Switch to canonical Vcs URLs.
 
- -- Guillem Jover <guillem@debian.org>  Mon, 29 Jul 2013 14:18:16 +0200
+  [ Robert Millan ]
+  * Restrict kfreebsd-headers-@flavor@ to kfreebsd architectures.
+
+ -- Robert Millan <rmh@debian.org>  Mon, 07 Oct 2013 15:02:42 +0200
 
 kfreebsd-defaults (9+1) unstable; urgency=high
 
