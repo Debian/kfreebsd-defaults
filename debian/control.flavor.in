@@ -1,5 +1,5 @@
 Package: kfreebsd-image-@flavor@
-Architecture: any-@arch@
+Architecture: kfreebsd-@arch@
 Depends: kfreebsd-image-@major@-@flavor@, ${misc:Depends}
 Description: kernel of FreeBSD (meta-package)
  This package depends on the binary image for kernel of FreeBSD @major@ on

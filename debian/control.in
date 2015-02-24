@@ -2,7 +2,9 @@ Source: kfreebsd-defaults
 Section: kernel
 Priority: optional
 Maintainer: GNU/kFreeBSD Maintainers <debian-bsd@lists.debian.org>
-Uploaders: Robert Millan <rmh@debian.org>
+Uploaders:
+ Robert Millan <rmh@debian.org>,
+ Christoph Egger <christoph@debian.org>
 Build-Depends: debhelper (>= 8.0)
 Vcs-Browser: http://anonscm.debian.org/viewvc/glibc-bsd/trunk/kfreebsd-defaults/
 Vcs-Svn: svn://anonscm.debian.org/glibc-bsd/trunk/kfreebsd-defaults/

@@ -1,3 +1,11 @@
+kfreebsd-defaults (10+2) unstable; urgency=medium
+
+  * Add myself to uploaders
+  * No longer build on any-@arch@ but only kfreebsd-@arch@ (Closes:
+    #779074)
+
+ -- Christoph Egger <christoph@debian.org>  Tue, 24 Feb 2015 23:35:21 +0100
+
 kfreebsd-defaults (10+1) unstable; urgency=low
 
   * New upstream release.
