@@ -6,6 +6,6 @@ Uploaders:
  Robert Millan <rmh@debian.org>,
  Christoph Egger <christoph@debian.org>
 Build-Depends: debhelper (>= 8.0)
-Vcs-Browser: http://anonscm.debian.org/viewvc/glibc-bsd/trunk/kfreebsd-defaults/
-Vcs-Svn: svn://anonscm.debian.org/glibc-bsd/trunk/kfreebsd-defaults/
 Standards-Version: 3.9.2
+Vcs-Browser: https://salsa.debian.org/kfreebsd-team/kfreebsd-defaults
+Vcs-Git: https://salsa.debian.org/kfreebsd-team/kfreebsd-defaults.git
